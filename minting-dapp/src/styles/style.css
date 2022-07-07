@@ -1,0 +1,92 @@
+#minting-dapp .collection-status > * .label {
+    font-size: 0.99rem !important;
+    line-height: 2rem !important;
+    --tw-text-opacity: 1;
+    color: #000 !important;
+    font-weight: bold;
+}
+#minuti
+{
+    align-items: center;
+    text-align: center;
+    margin-left: 6%;
+    height: 360px;
+}
+.countdowncrop
+{
+
+    background-color: #FFF !important;
+    background-image: none !important;
+}
+#countdowncropcircle
+{
+    margin-left: -18px;
+    text-align: center;
+    margin-top: 34px;
+    font-family: Arial Rounded MT Bold !important;
+}
+div#countdwn {
+    font-size: 141px;
+    /* margin: auto; */
+    /* margin-left: 980px; */
+
+    margin-top: 15%;
+    height: 310px;
+    /* margin-left: 18% !important; */
+    position: absolute;
+    background-image: url(http://localhost:8080/build/images/minuti.70d3cbf7.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+#logo {
+   text-align: left;
+   margin:0px;
+   float: left;
+   width: 70px;
+  }
+  .loghiet
+  {
+    
+  width: 53px;
+    margin-top: 7px !important;
+    margin-left: 11px !important;
+}
+.loghi 
+{
+    
+    margin:0px;
+    float: right;
+}
+.title
+{
+    font-size: 24px;text-align: center;color:#FFF;
+}
+
+.bgcrop
+{
+    background-image: url('../images/bg/h1_banner_bg.png');
+
+}
+#tit{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cors
+{
+    font-size: 0.85em;
+    font-variant: small-caps;
+    line-height: 4em;;
+
+}
+.cors2
+{
+    font-size: 0.95em;
+    font-variant: small-caps;
+    line-height: 4em;;
+
+}
